@@ -17,6 +17,6 @@ git version 2.37.1 (Apple Git-137.1)
 # 8 - Why would you run the command 'git status'?
 To list the modified or add files in your git project.
 # 9 - What does the command 'git add .' do?
-Makes the file ready to be pushed
+Makes the all files marked for commit.
 # 10 - What is the command to push your committed changes to your repo on GitHub?
 git push
